@@ -1,0 +1,10 @@
+﻿  Main.cpp
+C:\Users\amede\Desktop\VS\CALCULADORA TESTE\CALCULADORA TESTE\Main.cpp(63,7): warning C4101: 'operador': variável local não referenciada
+sfml-window-s-d.lib(JoystickImpl.obj) : warning LNK4099: PDB '' não foi encontrado 'sfml-window-s-d.lib(JoystickImpl.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+sfml-graphics-s-d.lib(Font.obj) : warning LNK4099: PDB '' não foi encontrado 'sfml-graphics-s-d.lib(Font.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+sfml-graphics-s-d.lib(Transform.obj) : warning LNK4099: PDB '' não foi encontrado 'sfml-graphics-s-d.lib(Transform.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+sfml-graphics-s-d.lib(Shape.obj) : warning LNK4099: PDB '' não foi encontrado 'sfml-graphics-s-d.lib(Shape.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+sfml-graphics-s-d.lib(Text.obj) : warning LNK4099: PDB '' não foi encontrado 'sfml-graphics-s-d.lib(Text.obj)' ou no ''; vinculando objeto quando quando sem nenhuma informação de depuração
+  CALCULADORA TESTE.vcxproj -> C:\Users\amede\Desktop\VS\CALCULADORA TESTE\x64\Debug\CALCULADORA TESTE.exe
+  'pwsh.exe' não é reconhecido como um comando interno
+  ou externo, um programa operável ou um arquivo em lotes.

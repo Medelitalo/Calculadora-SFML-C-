@@ -1,0 +1,19 @@
+Calculadora: 
+Criar Janela = ok 
+Criar plano de fundo = 
+Criar Botões = 
+Criar operações = 
+   mmmmmmm 
+
+
+
+//Criação dos quadrado1
+
+//sf::RectangleShape RE1(sf::Vector2f(50.f, 50.f));
+//RE1.setFillColor(sf::Color(230, 230, 230));
+//RE1.setPosition(10.f, 150.f);
+
+//Criação dos quadrado 2
+//sf::RectangleShape RE2(sf::Vector2f(50.f, 50.f));
+//RE2.setFillColor(sf::Color(230, 230, 230));
+//RE2.setPosition(70.f, 150.f); 
